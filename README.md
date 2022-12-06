@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m Simon and I am a Fullstack Software Engineer from Germany 🇩🇪 based in Frankfurt.  
+I’m Simon and I am a Software Architect from Germany 🇩🇪 based in Berlin.  
 
-I work on the future architecture 🔭 using `C#`.  
+I work on the future architecture 🔭 using `C#` and new in `Kotlin`.  
 ⚡ Just found out recently how awesome Docker & Docker Compose can be!  
   
 🤔 I'm Looking for help with Kubernetes Clusters and Vue.js.
