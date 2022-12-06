@@ -2,7 +2,7 @@
 
 I’m Simon and I am a Software Architect from Germany 🇩🇪 based in Berlin.  
 
-I work on the future architecture 🔭 using `C#` and new in `Kotlin`.  
+I work on future architecture 🔭 in my company using `C#` and new in `Kotlin`.  
 ⚡ Just found out recently how awesome Docker & Docker Compose can be!  
   
 🤔 I'm Looking for help with Kubernetes Clusters and Vue.js.
